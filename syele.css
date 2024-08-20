@@ -19,3 +19,8 @@ button {
     color: white;
     font-family: "Bai Jamjuree", sans-serif;
 }
+
+
+.passo.ativo {
+    display:block;
+}
